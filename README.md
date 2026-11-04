@@ -14,7 +14,7 @@ Building at the intersection of **cloud infrastructure** and **data engineering*
 
 ---
 
-### What I’m into
+### What I’m into ..
 
 - ☁️ Designing and building with AWS,GCP,Azure
 - ⚙️ Data pipelines, Python, and SQL
